@@ -1,5 +1,5 @@
 
-# Hi 👋, I’m Arif
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Arif)](https://git.io/typing-svg)
 
 Not just a student, I’m a **Web3 Developer in the making** — passionate about building secure, scalable, and innovative decentralized applications.
 
