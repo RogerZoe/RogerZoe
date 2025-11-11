@@ -18,7 +18,7 @@ EVM • Solidity • Hardhat • Foundry • Ethers.js • The Graph • Chainli
 
 ### 📄 My Resume
 Looking for a detailed overview of my skills, projects, and experience?  
-👉 [Download my resume](https://github.com/RogerZoe/RogerZoe/blob/main/Arif_Shaik_Resume.pdf)
+👉 [Download my resume](https://github.com/RogerZoe/RogerZoe/blob/main/Arif_Web3_Resume.pdf)
 
 ---
 
