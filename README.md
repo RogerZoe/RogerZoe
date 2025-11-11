@@ -15,6 +15,13 @@ EVM • Solidity • Hardhat • Foundry • Ethers.js • The Graph • Chainli
 
 ---
 
+
+### 📄 My Resume
+Looking for a detailed overview of my skills, projects, and experience?  
+👉 [Download my resume](https://github.com/RogerZoe/RogerZoe/blob/main/Arif_Shaik_Resume.pdf)
+
+---
+
 ### 🔭 Currently Working On
  * Polishing my Web3 skills by revising Solidity, Hardhat/Foundry, and Ethers.js
  * Practicing DApp development to apply what I’ve learned into real projects
