@@ -69,15 +69,6 @@ Looking for a detailed overview of my skills, projects, and experience?
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-FF0050?style=for-the-badge&logo=framer) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Lottie](https://img.shields.io/badge/Lottie-00B4AB?style=for-the-badge)
 
 
-
----
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerZoe&layout=compact&theme=radical)
-
-
 ---
 
 🚀 **Let’s Connect & Build Together!**
